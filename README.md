@@ -23,7 +23,7 @@
 - `new_ambulance_stations.html`: Interactive Leaflet visualisation of FDNY EMS station coverage & bottlenecks
 
 #### 🤖 Machine Learning Pipeline
-- `merged_weather_collisions_dataset.csv`: Engineered weather + collision features for ML model input
+- `merged_weather_collisions.csv`: Engineered weather + collision features for ML model input
 - `ML_model.ipynb`: Full ML classification pipeline to predict **dangerous** vs **non-dangerous** crashes
 
 #### 🧠 ML Model Details
